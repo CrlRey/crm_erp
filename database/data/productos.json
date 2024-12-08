@@ -1,0 +1,383 @@
+[
+  {
+     "id": 1,
+    "nombre": "NACHOS CHICKEN BITES",
+    "precio": 130,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/jk6yuxchj1owsrf92ftp",
+    "categoria_id": 1
+  },
+  {
+     "id": 2,
+    "nombre": "PAPAS CRISSCUT",
+    "precio": 94,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/b8mwyyrhjxmroc7wvovs",
+    "categoria_id": 1
+  },
+
+  {
+     "id": 3,
+    "nombre": "BIG DIPPER BONELESS",
+    "precio": 319,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/lhzeplwgdeukpotyeib0",
+    "categoria_id": 2
+  },
+  {
+     "id": 4,
+    "nombre": "COMBO PIZZA",
+    "precio": 215,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/dxtcl5w9sko9a1ukbkez",
+    "categoria_id": 2
+  },
+  {
+     "id": 5,
+    "nombre": "QUESADILLA GUACAMOLE",
+    "precio": 169,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/s6vlgf8hw8hcdetqvvoo",
+    "categoria_id": 2
+  },
+  {
+     "id": 6,
+    "nombre": "QUESADILLA RES",
+    "precio": 179,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/wt2aos2cp1vmeq31nhfw",
+    "categoria_id": 2
+  },
+  {
+     "id": 7,
+    "nombre": "COMBO BONELESS",
+    "precio": 291,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/xg8loo0rsfns5cswwvpk",
+    "categoria_id": 2
+  },
+  {
+     "id": 8,
+    "nombre": "SLIDERS BURGERS",
+    "precio": 192,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/tzchon5byiul5wexdqrm",
+    "categoria_id": 2
+  },
+
+
+  {
+     "id": 9,
+    "nombre": "COMBO SLIDER CERVEZAS",
+    "precio": 295,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/bznev4bbgdbzetvwrpw1",
+    "categoria_id": 3
+  },
+  {
+     "id": 10,
+    "nombre": "PLATO SNACK BONELESS",
+    "precio": 339,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/zuyck4aw1iwmzevfj6qe",
+    "categoria_id": 3
+  },
+  {
+     "id": 11,
+    "nombre": "COMBO BIG DIPPER",
+    "precio": 389,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/gdnzagtojfokaqf5exnh",
+    "categoria_id": 3
+  },
+
+  {
+     "id": 12,
+    "nombre": "KUSHIAGES",
+    "precio": 115,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/ub77ukxbgehzn7lztrfe",
+    "categoria_id": 4
+  },
+  {
+     "id": 13,
+    "nombre": "YAKIMESHI",
+    "precio": 119,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/cjyyowkvemvwht7j8yne",
+    "categoria_id": 4
+  },
+  {
+     "id": 14,
+    "nombre": "COMBO SUSHI ESPECIAL",
+    "precio": 129,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/jbo9b5qk0phvdsoelty7",
+    "categoria_id": 4
+  },
+  {
+     "id": 15,
+    "nombre": "MAKIS MAR Y TIERRA",
+    "precio": 140,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/mbijvbstafe04cue2gyu",
+    "categoria_id": 4
+  },
+  {
+     "id": 16,
+    "nombre": "MAKIS SUPREMO",
+    "precio": 154,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/ppufqoem1sykelazzepg",
+    "categoria_id": 4
+  },
+  {
+     "id": 17,
+    "nombre": "ENSALADA CÉSAR",
+    "precio": 159,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/yx43dzffmatoldld8hsz",
+    "categoria_id": 4
+  },
+
+  {
+     "id": 18,
+    "nombre": "BAGUIS CLÁSICOS",
+    "precio": 145,
+    "imagen": "",
+    "categoria_id": 5
+  },
+  {
+     "id": 19,
+    "nombre": "BAGUIS ESPECIALES",
+    "precio": 152,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/vui4cbcxw8z5uufj2isa",
+    "categoria_id": 5
+  },
+  {
+     "id": 20,
+    "nombre": "BAKE ROLLS",
+    "precio": 145,
+    "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/mwuu5s5gjbiiqdni874q",
+    "categoria_id": 5
+  },
+
+      {
+         "id": 21,
+        "nombre": "CLASICAS/DULCES",
+        "precio": 93,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/vhceq6ryg63vixw6yq3k",
+        "categoria_id": 6
+      },
+      {
+         "id": 22,
+        "nombre": "ESPECIALES/SALADAS",
+        "precio": 107,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/priy0qwouxuklzh4hmwo",
+        "categoria_id": 6
+      },
+
+      {
+         "id": 23,
+        "nombre": "CAFE",
+        "precio": 54,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/tjlzirt9aanwwh0hpltq",
+        "categoria_id": 7
+      },
+      {
+         "id": 24,
+        "nombre": "CAFE CON LECHE",
+        "precio": 85,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/jwnksjzh6sbfpryouf4u",
+        "categoria_id": 7
+      },
+
+      {
+         "id": 25,
+        "nombre": "FRAPES/ESPECIALES",
+        "precio": 98,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/ajxgrgdnmepu8otigvoe",
+        "categoria_id": 8
+      },
+      {
+         "id": 26,
+        "nombre": "FRAPES/CLASICOS",
+        "precio": 93,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/gzbvx2krhxvnc2zwncah",
+        "categoria_id": 8
+      },
+      {
+         "id": 27,
+        "nombre": "CHOCOLATE",
+        "precio": 88,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/lwnrite2tborbpw7lus3",
+        "categoria_id": 8
+      },
+      {
+         "id": 28,
+        "nombre": "TE",
+        "precio": 76,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/ggli0exv3d0razpffjyd",
+        "categoria_id": 8
+      },
+
+      {
+         "id": 29,
+        "nombre": "PASTEL CHOCOLATE",
+        "precio": 104,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/b1s7tlavrb0rlna81via",
+        "categoria_id": 9
+      },
+      {
+         "id": 30,
+        "nombre": "VOLCÁN DE CHOCOLATE",
+        "precio": 125,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/m7ejddoeg1jed3xu7c8v",
+        "categoria_id": 9
+      },
+      {
+         "id": 31,
+        "nombre": "BROWNIE CON GALLETA OREO",
+        "precio": 109,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/cynqjzgiy1b8d0kshdjq",
+        "categoria_id": 9
+      },
+      {
+         "id": 32,
+        "nombre": "COMBO CHURRO",
+        "precio": 168,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/lwnrite2tborbpw7lus3",
+        "categoria_id": 9
+      },
+
+      {
+         "id": 33,
+        "nombre": "MARGARITAS",
+        "precio": 99,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/f6cmqluz60fbraogq8qj",
+        "categoria_id": 10
+      },
+      {
+         "id": 34,
+        "nombre": "MOJITOS",
+        "precio": 119,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/f0ld5vmrshxmgyuj5s0g",
+        "categoria_id": 10
+      },
+      {
+         "id": 35,
+        "nombre": "LIMONADA CLÁSICA",
+        "precio": 65,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/tjieqkjzj6afjcyn1ivf",
+        "categoria_id": 10
+      },
+      {
+         "id": 36,
+        "nombre": "CARAJILLO",
+        "precio": 145,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/ldqgd9ma9y7aflwadgnj",
+        "categoria_id": 10
+      },
+
+      {
+         "id": 37,
+        "nombre": "CLASICA",
+        "precio": 66,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/dcvgocfzclcer6kez7nh",
+        "categoria_id": 11
+      },
+
+      {
+         "id": 38,
+        "nombre": "PREMIUM",
+        "precio": 82,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/l2mn2ws4a52dujcgc5aq",
+        "categoria_id": 11
+      },
+
+      {
+        "id": 39,
+        "nombre": "NACHOS EN PAREJA",
+        "precio": 442,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/pydb72qyeymkzhdwzhqu",
+        "categoria_id": 12
+      },
+      {
+        "id": 40,
+        "nombre": "MIX NACHOS",
+        "precio": 421,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/dfitphqgquofevjgbwbl",
+        "categoria_id": 12
+      },
+      {
+        "id": 41,
+        "nombre": "REFRESCOS",
+        "precio": 89,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/cboqamj5xutuwyozd4gd",
+        "categoria_id": 12
+      },
+      {
+        "id": 42,
+        "nombre": "AGUA",
+        "precio": 35,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/xytw2tlg4beegvbvstrw",
+        "categoria_id": 12
+      },
+      {
+        "id": 43,
+        "nombre": "ICEE",
+        "precio": 100,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/qtcgadum3b6gvg9fzujr",
+        "categoria_id": 12
+      },
+
+      {
+        "id": 44,
+        "nombre": "MANTEQUILLA",
+        "precio": 90,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/xx1vtrsd1cllgwnhvxq0",
+        "categoria_id": 12
+      },
+      {
+        "id": 45,
+        "nombre": "CARAMELO",
+        "precio": 105,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/xx1vtrsd1cllgwnhvxq0",
+        "categoria_id": 12
+      },
+
+      {
+        "id": 46,
+        "nombre": "CLASICOS",
+        "precio": 77,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/kokrrmlfvsgypozeflj3",
+        "categoria_id": 13
+      },
+      {
+        "id": 47,
+        "nombre": "HOT DOG TRADICIONAL",
+        "precio": 100,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/qjbowqo56ny71a8pbide",
+        "categoria_id": 13
+      },
+      {
+        "id": 48,
+        "nombre": "HOT DOG BACON BBQ",
+        "precio": 110,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/grm5zakocnbr0lz2r8ix",
+        "categoria_id": 13
+      },
+
+      {
+        "id": 49,
+        "nombre": "MALTEADA PREMIUM",
+        "precio": 159,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/rbxjw9hl55onlaonleei",
+        "categoria_id": 14
+      },
+      {
+        "id": 50,
+        "nombre": "MALTEADA CON HELADO",
+        "precio": 144,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/qlbnhh8sjoruct5b6xlv",
+        "categoria_id": 14
+      },
+      {
+        "id": 51,
+        "nombre": "MIX DULCES",
+        "precio": 80,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/pfydi8s3szmunbnigftn",
+        "categoria_id": 14
+      },
+      {
+        "id": 52,
+        "nombre": "CHOCOLATE EN BARRA",
+        "precio": 97,
+        "imagen": "https://res.cloudinary.com/dcmcgucbu/image/upload/f_auto,q_auto/v1/menu/j98smsgzdj6gapiilfhf",
+        "categoria_id": 14
+      }
+
+]
